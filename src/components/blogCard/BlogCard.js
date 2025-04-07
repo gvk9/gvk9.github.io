@@ -11,9 +11,7 @@ export default function BlogCard({ blog }) {
           <p className="blog-card-subtitle">{blog.description}</p>
 
           <div>
-            <a href={blog.url} target="_" class="button">
-              Read More
-            </a>
+            
           </div>
         </div>
       </div>
