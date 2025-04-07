@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Guna's Portfolio",
+  title: "Guna Veerendra's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Guna Veerendra J",
-  logo_name: "Guna",
+  logo_name: "Guna Veerendra J",
   nickname: "",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
